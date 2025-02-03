@@ -126,20 +126,14 @@ footer {
     background-color: #555;
 }
 footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-}
-
-footer .container {
-    width: 80%;
-    margin: 0 auto;
-}
-
-footer p {
-    font-size: 1.2em;
-}
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
 
 .social-links {
     list-style: none;
